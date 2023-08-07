@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Chibuzor Ihueze</h1>
-<h4 align="center">I am Passionate about building scalable web applications with a strong focus on TypeScript, JavaScript, AWS, Docker, React, Redux, and Node.js. Constantly exploring new technologies and best practices to craft efficient and maintainable code. Let's collaborate and create something amazing together!</h4>
+<h4 align="center">I build scalable web applications using TypeScript, JavaScript, React, and Redux. Constantly exploring new technologies and best practices to craft efficient and maintainable code. Let's collaborate and create something amazing together!</h4>
 
 <!-- Aligning image to the right -->
 <p align="right">
@@ -22,11 +22,11 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 📝 I regularly write articles on [https://hashnode.com/@kriskord](https://hashnode.com/@kriskord)
+- 📝 I regularly write articles which i publish on [https://hashnode.com/@kriskord](https://hashnode.com/@kriskord)
 
 - 💬 Ask me about **Frontend development**
 
-- 📫 How to reach me **chibuzorihueze@gmail.com**
+- 📫 How to reach me on **chibuzorihueze@gmail.com**
 
 - ⚡ Fun fact **When I'm not busy coding and building tech wonders, you might find me tickling the ivories and creating harmonious melodies on the piano! 🎹🎶**
 
