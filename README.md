@@ -1,4 +1,7 @@
 <!-- Banner GIF -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" alt="Header GIF" width="100%" height="140px">
+</p>
 
 <h1 align="center">Hi 👋, I'm Chibuzor Ihueze</h1>
 <h4 align="center">I build scalable web applications using TypeScript, JavaScript, React, and Redux. Constantly exploring new technologies and best practices to craft efficient and maintainable code. Let's collaborate and create something amazing together!</h4>
